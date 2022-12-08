@@ -30,11 +30,3 @@
   ![Snake animation](https://github.com/eagrundy/GregLJ/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GregLJ.GregLJ&left_color=blueviolet&right_color=navy"  />
-
-###
