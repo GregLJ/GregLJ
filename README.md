@@ -21,13 +21,14 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gregory-l-john" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:gregory.l.john@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+<div> 
+  <a href="https://www.linkedin.com/in/gregory-l-john" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: gregory.l.john@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/eagrundy/GregLJ/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 ###
