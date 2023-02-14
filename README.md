@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&desc=Welcome%20to%20my%20GitHub%20Page!&animation=twinkling)
 <h2 align="left">👋 Hi, I'm Greg!<br><br>👀 I’m am a maker at heart and my interests include Coding (both professionally and as a hobby),additive manufacturing processes, gaming(MMORPG, Survival, Action/Adventure), fabrication, carpentry and anything related to technology.<br><br>🌱 I’m currently learning Cloud Application Development through Microsoft Software and Systems Academy (MSSA).<br>I am genuinely excited to explore what my future in the tech industry grows into following this Cohort, and can not wait to see whats next.<br><br>💞️ I am interested in learning through collaboration with other developers.</h2>
 
 ###
