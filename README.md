@@ -72,7 +72,7 @@ hobbies: ["Gaming", "Tinkering", "Raising Chickens", "Family time"]
   </a>
   <a href="https://www.twitter.com/gregljohn" target="_blank"><img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" height = "30"/>
   </a> 
-  <a href = "mailto: gregory.l.john@outlook.com"><img src="https://user-images.githubusercontent.com/105023491/218645303-9ee36775-64aa-4a8c-840f-ecd323df33f4.png)" height"30">
+  <a href = "mailto: gregory.l.john@outlook.com"><img src="https://user-images.githubusercontent.com/105023491/218645303-9ee36775-64aa-4a8c-840f-ecd323df33f4.png" height = "30"/>
   </a>
 </div>
 
