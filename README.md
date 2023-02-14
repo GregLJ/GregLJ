@@ -1,7 +1,9 @@
 <p align = "center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Page!&fontSize=55&animation=twinkling"/>
 </p>
-
+<div align = "center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+</div>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
