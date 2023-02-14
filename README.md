@@ -65,12 +65,15 @@ hobbies: ["Gaming", "Tinkering", "Raising Chickens", "Family time"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode-logo"/>
 </div>
 
-###
+<h2 align="left">💬Let's Connect and have a Chat!💬</h2>
 
-<div> 
-  <h2 align="center">💬Let's Connect and have a Chat!💬</h2>
-  <a href="https://www.linkedin.com/in/gregory-l-john" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: gregory.l.john@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+<div align = "center">
+  <a href="https://www.linkedin.com/in/gregory-l-john" target="_blank"><img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" height = "30"/>
+  </a>
+  <a href="https://www.twitter.com/gregljohn" target="_blank"><img src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png" height = "30"/>
+  </a> 
+  <a href = "mailto: gregory.l.john@outlook.com"><img src="https://user-images.githubusercontent.com/105023491/218645303-9ee36775-64aa-4a8c-840f-ecd323df33f4.png)" height"30">
+  </a>
 </div>
 
 ![Snake animation](https://github.com/GregLJ/GregLJ/blob/output/github-contribution-grid-snake.svg)
