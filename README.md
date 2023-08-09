@@ -18,7 +18,7 @@ company: Searching...
 
 fields_of_interests:
   [
-    ".Net Development",
+    ".NET Development",
     "Game Development",
     "Addon Development",
     "Mod-Development",
